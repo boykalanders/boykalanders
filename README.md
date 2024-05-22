@@ -204,6 +204,3 @@
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-</p>
