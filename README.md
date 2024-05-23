@@ -91,23 +91,27 @@
       <br>NextJS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+        <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="NextJS" />
+      <br>Vue
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST API
+        <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="NextJS" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
       <br>FastAPI
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="FastAPI" />
-      <br>Prettier
-    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST API
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
@@ -127,6 +131,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
       <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="FastAPI" />
+      <br>Prettier
     </td>
   </tr>
 </table>
