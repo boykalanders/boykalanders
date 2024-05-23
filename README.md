@@ -152,12 +152,6 @@
     <p>
 </p>
 
-</p>
-
-<b>☄️ Github Streaks</b>
-  
-  <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=boykalanders&theme=gotham&hide_border=true" />
 
 <!-- activity graph bigstar-app end -->
 
