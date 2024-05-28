@@ -2,14 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?text=Senior-dev&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 ## Skills
-- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, PHP,
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
+- 🌱 Frontend : React, Next, Vue, Jquery, Material UI, Bootstrap, TailwindCSS
+- 🔭 Backend : NodeJs, Express
+- 🧩 Database : MySQL, PostgreSQL, MongoDB
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, MQL4, MQL5
-- 🔥 CMS: WordPress
+- 🔥 Cloud Service: AWS(EC2, S3), Google Cloud
   
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
