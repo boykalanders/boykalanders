@@ -4,7 +4,7 @@
 
 ## Skills
 - 🌱 Frontend : React, Next, Vue, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, Express
+- 🔭 Backend : NodeJs, Django
 - 🧩 Database : MySQL, PostgreSQL, MongoDB
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, MQL4, MQL5
 - 🔥 Cloud Service: AWS(EC2, S3), Google Cloud
