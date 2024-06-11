@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=SeniorDev&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=egg&height=250&color=gray&text=Lead%20Full%20Stack%20Dev&fontColor=aaffaa&textBg=false&fontAlign=50&animation=scaleIn&stroke=00ff00&strokeWidth=3" />
 </p>
 
 ## Skills
